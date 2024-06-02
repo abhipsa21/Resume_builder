@@ -29,27 +29,4 @@ npm run server
 # Run the React client only
 npm run client
 
-# Server runs on http://localhost:5000 and client on http://localhost:3000
-```
-
-**Note - If you wish to change the server port number from 5000 to say port 4000, then do the following small change in package.json file of the client folder.**
-
-<div align="center">
-  <img src="./proxy-change.png" width=100%/>
-</div>
-
-## Demo :
-
-Click on the image below to see the demo.
-
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/JkcP06CYVpc/0.jpg)](https://www.youtube.com/watch?v=JkcP06CYVpc)
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/girishgr8/Resume-Builder/blob/master/LICENSE) file for details.
-
-## Credits :
-
-Referred to [this](https://www.sitepoint.com/google-auth-react-express/) for setting up Google Sign-in
-
-<h3 align="center"><b>Developed with :heart: by Girish Thatte</b></h1>
+TRY LIVE HERE:https://resume-builder-7xhm.onrender.com/
